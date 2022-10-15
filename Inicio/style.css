@@ -1,0 +1,17 @@
+Etiqueta
+
+p {
+    color: blue;
+    font-size: 30px;
+}
+
+/* class */
+.parrafo{
+    color: brown;
+}
+
+/* ID */
+#texto{
+    color: blueviolet;
+    font-size: 24px;
+}

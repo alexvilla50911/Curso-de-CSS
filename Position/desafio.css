@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.parent {
+    border: 5px dotted black;
+    display: inline-block;
+}
+
+.box {
+    display: inline-cblok;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+#one {
+    position: absolute;
+    border-radius: 30px;
+    margin-top: 1%;
+    margin-left: 44.1%;
+    background-color: wheat;
+    width: 10%;
+    height: 10%;
+   
+    
+}
+
+#two {
+    border-radius: 1rem;
+    height: 200px;
+    width: 400px;
+    margin-top: 20%;
+    background-color: gray;
+    text-align: center;
+    margin-left: 180%;
+    border: black dotted;
+}
+
+p {
+    padding-top: 10%;
+}
+
+#one p {
+    color: red;
+    text-align: center;
+}

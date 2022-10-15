@@ -1,0 +1,5 @@
+
+ h2 + p {                 /* Aplicale el color rojo a todas las etiquetas P que esten cerca de un H2  combinador ADYACENT SIBLING*/
+    color: red; 
+
+ }

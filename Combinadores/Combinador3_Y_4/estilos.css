@@ -1,0 +1,7 @@
+div > p {
+    color: red;     /*La etiqueta padre directo DIV le dara el estilo a sus hijos directos (QUE ESTEN JUNTOS) */
+}
+
+div p {
+    color: red  /*Esta es directa a todas las etiquetas P y se les aplica el estilo*/
+}

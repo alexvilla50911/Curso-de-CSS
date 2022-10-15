@@ -1,0 +1,12 @@
+main {
+    font-size: 1em;
+}
+
+                                    /*1em toma el tamaño del padre directo*/
+.text-container {
+    font-size: 1.5em;           
+}
+
+.text-container div {
+    font-size: 1.5em;
+}
